@@ -57,7 +57,7 @@ public class movement : MonoBehaviour
 ```
 ## Output:
 
-![alt text](<Screenshot 2025-11-16 203839.png>)
+![alt text](<Screenshot 2025-11-23 140904.png>)
 
 ## Result:
 
